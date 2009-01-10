@@ -3,7 +3,7 @@
 Summary:	    Add blank space and/or a separator line in panels
 Name:		    plasma-applet-%oname
 Version: 	    0.0
-Release: 	    %mkrel 1.%svn.1
+Release: 	    %mkrel 0.%svn.1
 Source0:        %oname-%version.%svn.tar.bz2	
 License: 	    GPLv2+
 Group: 		    Graphical desktop/KDE
