@@ -7,7 +7,7 @@ Release: 	    %mkrel 0.%svn.3
 Source0:        %oname-%version.%svn.tar.bz2	
 License: 	    GPLv2+
 Group: 		    Graphical desktop/KDE
-Url: 	        http://www.kde.org
+Url: 	        https://www.kde.org
 BuildRoot: 	    %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Requires:	    kdebase4-runtime
 BuildRequires: 	plasma-devel >= 4.0.70
