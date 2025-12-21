@@ -10,6 +10,7 @@ Group: 		    Graphical desktop/KDE
 Url: 	        https://www.kde.org
 BuildRoot: 	    %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Requires:	    kdebase4-runtime
+BuildRequires:	make
 BuildRequires: 	plasma-devel >= 4.0.70
 
 %description 
